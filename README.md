@@ -1,4 +1,4 @@
-# SAEV Robotic Arm Control
+# Robotic Arm Control
 
 Arduino firmware for a 4-joint robotic arm (base, shoulder, elbow, gripper) driven by two analog joysticks through a **PCA9685** 16-channel PWM servo driver.
 
